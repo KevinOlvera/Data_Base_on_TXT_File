@@ -1,0 +1,10 @@
+0:Kevin:Olvera:Olvera:2018:09:25:100000:0.0
+1:Luisa:Olvera:Espitia:2018:09:25:89000:0.0
+2:Felipe:Escobar:Lopez:2018:09:25:53000:0.0
+3:Alexis:Alameda:Poblano:2018:09:25:10:0.0
+4:Ariana:Rayon:Salinas:2018:09:25:15:0.0
+7:Ingrid:Chavez:Chavez:2018:09:25:500000:0.0
+8:Samantha:Benitez:Gonzalez:2018:09:25:1000000:0.0
+9:Synthya:Cortez:Espinosa:2018:09:25:25000:0.0
+10:Oliver:Olvera:Olvera:2018:09:25:50000:0.0
+11:Jesus:Olvera:Zamora:2018:09:25:10000000:0.0
